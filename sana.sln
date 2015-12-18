@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sana", "sana.vcproj", "{DED3F3BC-47ED-44C7-B189-0AE446E1FC57}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DED3F3BC-47ED-44C7-B189-0AE446E1FC57}.Debug.ActiveCfg = Debug|Win32
+		{DED3F3BC-47ED-44C7-B189-0AE446E1FC57}.Debug.Build.0 = Debug|Win32
+		{DED3F3BC-47ED-44C7-B189-0AE446E1FC57}.Release.ActiveCfg = Release|Win32
+		{DED3F3BC-47ED-44C7-B189-0AE446E1FC57}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
